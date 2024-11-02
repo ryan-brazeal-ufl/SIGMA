@@ -19,7 +19,7 @@ I welcome any and all contributors and feedback/questions.
 
 Once my final report has been approved I will included it here. It contains a lot of the theoretic details behind differential GPS processing with the aim of hopefully help those who are interested in the topic understand it a little bit easier.
 
-Google Drive Link to my paper, https://drive.google.com/open?id=0B-2VHtbHHIlueGt5bE05RFJSdU0
+Link to my [paper](http://dx.doi.org/10.13140/RG.2.1.1188.7525).
 
 Thanks,
 
